@@ -1,7 +1,7 @@
  # ASM-v7
-🏭 my asmV7 progress from scratch
+ my asmV7 progress from scratch
 
-# ARM Assembly Learning
+# 🏭ARM Assembly Learning
 
 Learning ARM assembly for embedded engineering (STM32).
 Tested on CPulator.
